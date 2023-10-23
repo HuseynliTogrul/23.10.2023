@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.App\\Shoop.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.App\\Shoop.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.App\\Shoop.App.csproj",
+        "projectName": "Shoop.App",
+        "projectPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.App\\Shoop.App.csproj",
+        "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Service\\Shoop.Service.csproj": {
+                "projectPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Service\\Shoop.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Core\\Shoop.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Core\\Shoop.Core.csproj",
+        "projectName": "Shoop.Core",
+        "projectPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Core\\Shoop.Core.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Service\\Shoop.Service.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Service\\Shoop.Service.csproj",
+        "projectName": "Shoop.Service",
+        "projectPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Service\\Shoop.Service.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Core\\Shoop.Core.csproj": {
+                "projectPath": "C:\\Users\\acer\\Desktop\\23.10.2023\\Shoop.Core\\Shoop.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\acer\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.AssemblyInfo.cs
+C:\Users\acer\Desktop\Shoop.App\Shoop.App\obj\Debug\net6.0\Shoop.App.csproj.CoreCompileInputs.cache
