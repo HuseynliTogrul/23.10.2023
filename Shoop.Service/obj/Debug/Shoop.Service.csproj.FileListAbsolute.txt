@@ -1,2 +1,14 @@
 C:\Users\acer\Desktop\Shoop.App\Shoop.Service\obj\Debug\Shoop.Service.csproj.AssemblyReference.cache
 C:\Users\acer\Desktop\Shoop.App\Shoop.Service\obj\Debug\Shoop.Service.csproj.CoreCompileInputs.cache
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Shoop.Service.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Shoop.Service.pdb
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Shoop.Core.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\bin\Debug\Shoop.Core.pdb
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\obj\Debug\Shoop.Service.csproj.AssemblyReference.cache
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\obj\Debug\Shoop.Service.csproj.CoreCompileInputs.cache
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\obj\Debug\Shoop.Service.csproj.CopyComplete
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\obj\Debug\Shoop.Service.dll
+C:\Users\toghrulih\Desktop\23.10.2023\Shoop.Service\obj\Debug\Shoop.Service.pdb

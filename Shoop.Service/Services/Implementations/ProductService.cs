@@ -62,7 +62,7 @@ namespace Shoop.Service.Services.Implementations
             }
             else
             {
-                Console.WriteLine(products);
+                Console.WriteLine(result);
             }
         }
     }

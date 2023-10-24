@@ -6,8 +6,8 @@ namespace Shoop.Service.Services.Interfaces
 {
     public interface IProductService
     {
-        public void CreateProduct();
-        public void ShowProduct();
-        public void ProductGetById();
+         void CreateProduct();
+         void ShowProduct();
+         void ProductGetById();
     }
 }

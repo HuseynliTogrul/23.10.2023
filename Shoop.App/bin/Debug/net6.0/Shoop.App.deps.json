@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shoop.App/1.0.0": {
+        "dependencies": {
+          "Shoop.Service": "1.0.0"
+        },
+        "runtime": {
+          "Shoop.App.dll": {}
+        }
+      },
+      "Shoop.Core/1.0.0": {
+        "runtime": {
+          "Shoop.Core.dll": {}
+        }
+      },
+      "Shoop.Service/1.0.0": {
+        "dependencies": {
+          "Shoop.Core": "1.0.0"
+        },
+        "runtime": {
+          "Shoop.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shoop.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shoop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shoop.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
